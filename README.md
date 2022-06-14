@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://steady-brioche-a40561.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://devchallenges.io/solutions/vkFAyVKS0thuij4LTypD">
       Solution
     </a>
     <span> | </span>
