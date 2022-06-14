@@ -36,7 +36,7 @@
 
 ## Overview
 
-![screenshot](https://steady-brioche-a40561.netlify.app/Captura de pantalla.png)
+![screenshot](https://steady-brioche-a40561.netlify.app/Captura-de-pantalla.png)
 
 This is my first challenge created, it was something simple but I really enjoyed doing it. :)
 
