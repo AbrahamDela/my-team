@@ -1,0 +1,134 @@
+img {
+    width: 238px;
+}
+
+h1 {
+    font-family: 'PT Serif';
+    font-weight: 700;
+}
+
+h2, h3 {
+    font-family: 'Poppins';
+    font-weight: 600;
+}
+
+p, .footer {
+    font-family: 'Poppins';
+    font-weight: 400;
+}
+
+h4 {
+    font-family: 'Pt Serif';
+    font-weight: 400;
+}
+
+.contenedor {
+    padding-right: 150px;
+}
+
+.header {
+    columns: 2;
+    padding: 70px 90px 0px 90px;
+    text-align: center;
+}
+
+.header h2, p, h3 {
+    text-align: left;
+}
+
+.galeri {
+    text-align: center;
+}
+
+.picture {
+    position: relative;
+    display: inline-block;
+    margin: 10px 50px 10px 50px;
+    filter: grayscale(100%);
+}
+
+.picture:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: 600ms 100ms;
+    filter: grayscale(0);
+}
+
+.down, .down-2 {
+    top: 80px;
+}
+
+h4 {
+    transform: rotate(90deg);
+    position: relative;
+    left: 140px;
+    top: 80px;
+}
+
+.one {
+    top: 98px;
+}
+
+.two {
+    top: 85px;
+}
+
+.footer {
+    padding: 70px 0 10px 0;
+    text-align: center;
+    font-size: 10px;
+    color: #aaa;
+}
+
+a {
+    color: #444;
+}
+
+@media (max-width:1038px) {
+    .picture {
+        margin: 0px 40px 0px 20px;
+    }
+
+    .down-2 {
+        top: 0;
+    }
+
+    .down-1 {
+        top: 80px;
+    }
+
+    .header {
+        columns: 1;
+        text-align: left;
+    }
+
+    .header h1 {
+        font-size: 76px;
+    }
+
+    .header h2 {
+        font-size: 58px;
+        padding-top: 20px;
+    }
+
+    p, h4, h3 {
+        font-size: 36px;
+    }
+
+    h4 {
+    left: 220px;
+    top: 190px;
+    }
+
+    .one {
+        top: 230px;
+    }
+    
+    .two {
+        top: 190px;
+    }
+
+    img {
+        width: 380px;
+    }
+}
